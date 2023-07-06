@@ -14,6 +14,9 @@ def my_sum(x,y):
 def my_diff(x,y):
   return x-y
 
+def my_product(x,y):
+  return x*y
+
 # COMMAND ----------
 
 
